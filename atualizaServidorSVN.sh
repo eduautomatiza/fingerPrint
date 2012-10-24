@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Alterado
+
 # Função de validação da script
 verificaAlteracao(){
 	ipServidor=$(cat /etc/hosts | grep servidorsvn)
